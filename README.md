@@ -1,8 +1,5 @@
-# Hi there, I'm hazasite 👋
+# Hi!  I'm Janma Hasarel 👋
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hazasite&label=Profile%20Views&color=0e75b6&style=flat" alt="hazasite" />
-</p>
 
 ### 🚀 About Me
 I am a versatile **Full-Stack Developer** and **Creative Designer** passionate about building seamless digital experiences. From high-performance web applications to intuitive mobile and desktop solutions, I bridge the gap between code and design.
