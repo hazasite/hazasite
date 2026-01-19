@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi there, I'm hazasite 👋
 
-<!--
-**hazasite/hazasite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=hazasite&label=Profile%20Views&color=0e75b6&style=flat" alt="hazasite" />
+</p>
 
-Here are some ideas to get you started:
+### 🚀 About Me
+I am a versatile **Full-Stack Developer** and **Creative Designer** passionate about building seamless digital experiences. From high-performance web applications to intuitive mobile and desktop solutions, I bridge the gap between code and design.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌐 **Web & Web App Development:** Crafting responsive and dynamic web solutions.
+- 📱 **Mobile App Development:** Building cross-platform mobile experiences.
+- 💻 **Desktop App Development:** Creating powerful standalone software.
+- 🎨 **Graphic Design:** Designing visual identities and user interfaces.
+- 🎬 **Content Creation:** Producing engaging digital content for the web.
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+#### 💻 Development
+![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,php,flutter,dart,dotnet,electron,mysql,mongodb,git,vscode)
+
+#### 🎨 Creative & Design
+![Design Skills](https://skillicons.dev/icons?i=ps,ai,figma,pr,ae)
+
+---
+
+### 📊 GitHub Statistics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hazasite&show_icons=true&theme=radical" alt="hazasite's GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hazasite&layout=compact&theme=radical" alt="Top Langs" />
+</p>
+
+---
+
+### 📫 Connect with me:
+<p align="left">
+<a href="https://linkedin.com/in/YOUR_USERNAME" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hazasite" height="30" width="40" /></a>
+<a href="https://fb.com/YOUR_USERNAME" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hazasite" height="30" width="40" /></a>
+<a href="https://instagram.com/YOUR_USERNAME" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hazasite" height="30" width="40" /></a>
+</p>
+
+---
+*“Coding the logic, designing the magic.”*
