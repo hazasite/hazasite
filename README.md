@@ -9,6 +9,8 @@ I am a versatile **Full-Stack Developer** and **Creative Designer** passionate a
 ### Contact Me
 [Contact Me On Whatsapp](https://api.whatsapp.com/send?phone=94771315403&text=Hi.%20I%20Saw%20You%20On%20The%20GitHub.)
 
+---
+### Skills
 
 - 🌐 **Web & Web App Development:** Crafting responsive and dynamic web solutions.
 - 📱 **Mobile App Development:** Building cross-platform mobile experiences.
