@@ -7,7 +7,7 @@ I am a versatile **Full-Stack Developer** and **Creative Designer** passionate a
 ### Studying At Richmond Collage Galle & KD Jayakodi's nas
 ---
 ### Contact Me
-![Contact Me](https://api.whatsapp.com/send?phone=94771315403&text=Hi.%20I%20Saw%20You%20On%20The%20GitHub.)
+[Contact Me On Whatsapp](https://api.whatsapp.com/send?phone=94771315403&text=Hi.%20I%20Saw%20You%20On%20The%20GitHub.)
 
 
 - 🌐 **Web & Web App Development:** Crafting responsive and dynamic web solutions.
