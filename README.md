@@ -3,8 +3,11 @@
 
 ### 🚀 About Me
 I am a versatile **Full-Stack Developer** and **Creative Designer** passionate about building seamless digital experiences. From high-performance web applications to intuitive mobile and desktop solutions, I bridge the gap between code and design.
-Studying At Richmond Collage Galle & KD Jayakodi's nas
-Contact Me 
+---
+### Studying At Richmond Collage Galle & KD Jayakodi's nas
+---
+### Contact Me
+![Contact Me](https://api.whatsapp.com/send?phone=94771315403&text=Hi.%20I%20Saw%20You%20On%20The%20GitHub.)
 
 
 - 🌐 **Web & Web App Development:** Crafting responsive and dynamic web solutions.
