@@ -3,6 +3,9 @@
 
 ### 🚀 About Me
 I am a versatile **Full-Stack Developer** and **Creative Designer** passionate about building seamless digital experiences. From high-performance web applications to intuitive mobile and desktop solutions, I bridge the gap between code and design.
+Studying At Richmond Collage Galle & KD Jayakodi's nas
+Contact Me 
+
 
 - 🌐 **Web & Web App Development:** Crafting responsive and dynamic web solutions.
 - 📱 **Mobile App Development:** Building cross-platform mobile experiences.
@@ -15,7 +18,7 @@ I am a versatile **Full-Stack Developer** and **Creative Designer** passionate a
 ### 🛠️ Tech Stack & Tools
 
 #### 💻 Development
-![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,php,flutter,dart,dotnet,electron,mysql,mongodb,git,vscode)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,php,flutter,dart,dotnet,electron,mysql,mongodb,git,Expo,vscode)
 
 #### 🎨 Creative & Design
 ![Design Skills](https://skillicons.dev/icons?i=ps,ai,figma,pr,ae)
