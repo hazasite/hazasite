@@ -34,16 +34,6 @@ I am a versatile **Full-Stack Developer** and **Creative Designer** passionate a
 
 ---
 
-### 📊 GitHub Statistics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hazasite&show_icons=true&theme=radical" alt="hazasite's GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hazasite&layout=compact&theme=radical" alt="Top Langs" />
-</p>
-
----
 
 ### 📫 Connect with me:
 <p align="left">
