@@ -6,7 +6,7 @@ I am a versatile **Full-Stack Developer** and **Creative Designer** passionate a
 
 ---
 
-### Studying At Richmond Collage Galle & KD Jayakodi's nas
+### Studying At Richmond Collage Galle & KD Jayakody's nas
 
 ---
 
