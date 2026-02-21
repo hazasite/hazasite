@@ -2,6 +2,7 @@
 
 # <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Janma+Hasarel;Creative+Developer;AI+Researcher" alt="Typing SVG" />
 
+
 ### Full-Stack Developer | Graphic Designer
 ---
 
@@ -28,14 +29,22 @@
 
 ## 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=hazasite&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=hazasite&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hazasite&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hazasite&theme=tokyonight&hide_border=true&background=1A1B27&stroke=3ABFEF&ring=3ABFEF&fire=FF9900" height="200" />
+</div>
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=kdjayakody&color=3ABFEF&style=flat-square&label=Profile+Views" alt="Profile Views" />
+</div>
 
 ## 🌐 Socials:
+
+<div align="center">
+ 
  [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@janmahasarel)
- [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:janmahasarel12@gmail.com) 
+ [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:janmahasare12@gmail.com)
+ [![Portfolio](https://img.shields.io/badge/Portfolio-12100E?style=for-the-badge&logo=google-chrome&logoColor=white)](https://hazasite.github.io/portfolio)
+ 
+</div>
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=HAZA&section=footer&reversal=true&fontAlignY=72" width="100%"/>
