@@ -41,7 +41,9 @@
 <div align="center">
  
  [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@janmahasarel)
- [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:janmahasarel12@gmail.com)
+ <a href="mailto:janmahasarel12@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+</a>
  [![Portfolio](https://img.shields.io/badge/Portfolio-12100E?style=for-the-badge&logo=google-chrome&logoColor=white)](https://hazasite.github.io/portfolio)
  
 </div>
