@@ -1,46 +1,42 @@
-# Hi!  I'm Janma Hasarel 👋
+<div align="center">
 
+# <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Janma+Hasarel;Creative+Developer;AI+Researcher" alt="Typing SVG" />
 
-### 🚀 About Me
-I am a versatile **Full-Stack Developer** and **Creative Designer** passionate about building seamless digital experiences. From high-performance web applications to intuitive mobile and desktop solutions, I bridge the gap between code and design.
+### Full-Stack Developer | Graphic Designer
+---
+
+</div>
+
+## 💫 About Me:
+
+- 🔭 **Studying At:** Richmond Collage and KDJ.LK
+- 👯 **Looking to collaborate on:** Open-source AI projects and Creative Web Designs.
+- 🤝 **Looking for help with:** Advanced JavaScript and AI Model Training.
+- 🎨 **Creative Projects:** Developing the **Productivity Projects**
+- ⚡ **Fun fact:** I love experiment **Tech Products** and **New Technologies.**
 
 ---
 
-### Studying At Richmond Collage Galle & KD Jayakody's nas
+## 💻 Tech Stack:
+> *These are the technologies I have used and experimented with, often leveraging AI tools to help me build, learn, and implement projects.*
 
----
+| **Category** | **Tools & Languages** |
+| :--- | :--- |
+| **Languages** | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
+| **Frontend & Design** | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) |
+| **Frameworks & Libs** | ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) |
 
-### Contact Me
-![Contact Me](https://skillicons.dev/icons?i=whatsap)[Contact Me On Whatsapp](https://api.whatsapp.com/send?phone=94771315403&text=Hi.%20I%20Saw%20You%20On%20The%20GitHub.)
+## 📊 GitHub Stats:
 
----
-### Skills
-
-- 🌐 **Web & Web App Development:** Crafting responsive and dynamic web solutions.
-- 📱 **Mobile App Development:** Building cross-platform mobile experiences.
-- 💻 **Desktop App Development:** Creating powerful standalone software.
-- 🎨 **Graphic Design:** Designing visual identities and user interfaces.
-- 🎬 **Content Creation:** Producing engaging digital content for the web.
-
----
-
-### 🛠️ Tech Stack & Tools
-
-#### 💻 Development
-![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,php,flutter,dart,dotnet,electron,mysql,mongodb,git,Expo,vscode)
-
-#### 🎨 Creative & Design
-![Design Skills](https://skillicons.dev/icons?i=ps,ai,figma,pr,ae)
-
----
+![](https://github-readme-stats.vercel.app/api?username=hazasite&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=hazasite&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=hazasite&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
-### 📫 Connect with me:
-<p align="left">
-<a href="https://linkedin.com/in/YOUR_USERNAME" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hazasite" height="30" width="40" /></a>
-<a href="https://fb.com/YOUR_USERNAME" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hazasite" height="30" width="40" /></a>
-<a href="https://instagram.com/YOUR_USERNAME" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hazasite" height="30" width="40" /></a>
-</p>
+## 🌐 Socials:
+ [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@janmahasarel)
+ [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:janmahasarel12@gmail.com) 
 
----
-*“Coding the logic, designing the magic.”*
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=HAZA&section=footer&reversal=true&fontAlignY=72" width="100%"/>
+</div>
